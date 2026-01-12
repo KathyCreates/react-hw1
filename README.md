@@ -19,3 +19,6 @@ npm run dev
 ## Компоненти:
 Button: props text, type, onClick
 Input: props placeholder, type, onChange
+
+## Демо:
+react-1hw.netlify.app
